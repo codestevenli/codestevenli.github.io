@@ -28,12 +28,14 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text  / *  加粗和斜体  * /
 
 [Link](url) and ![Image](src)  / * 增加图片资源  * /
+
+```
 # like this
 
 [Image])(https://github.com/codestevenli/markdownPhotos/blob/master/1.gif)
 
 
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
