@@ -32,7 +32,7 @@ Syntax highlighted code block
 ```
 # like this
 
-[Image])(https://github.com/codestevenli/markdownPhotos/blob/master/1.gif)
+![Image](https://github.com/codestevenli/markdownPhotos/blob/master/1.gif)
 
 
 
