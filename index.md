@@ -1,4 +1,4 @@
-## Welcome to codestevenli's page used GitHub Pages
+## 欢迎来到codestevenli's blog,学习使用Markdown来创建你的网页内容吧！
 
 # **你可以使用Markdown文件展示你的网页内容**
 
