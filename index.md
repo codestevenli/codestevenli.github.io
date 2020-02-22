@@ -34,7 +34,7 @@ Syntax highlighted code block
 ```
 # like this
 
-![Image](https://github.com/codestevenli/markdownPhotos/blob/master/1.jpg)
+![Image](https://github.com/codestevenli/codestevenli.github.io/raw/master/picture/plex.png)
 
 如果你想看[下一篇](https://codestevenli.github.io/blog/firstblog.html)
 
