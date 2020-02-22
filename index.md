@@ -34,8 +34,7 @@ Syntax highlighted code block
 
 ![Image](https://github.com/codestevenli/markdownPhotos/blob/master/1.gif)
 
-
-
+如果你想看[下一篇](https://github.com/codestevenli/codestevenli.github.io/edit/master/firstblog.md)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
