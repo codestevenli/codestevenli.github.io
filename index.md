@@ -2,6 +2,8 @@
 
 # **你可以使用Markdown文件展示你的网页内容**
 
+如果你想看[下一篇](https://codestevenli.github.io/blog/firstblog.html),**赶快行动吧！！！**
+
 You can use the [editor on GitHub](https://github.com/codestevenli/codestevenli.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -34,7 +36,7 @@ Syntax highlighted code block
 
 ![Image](https://github.com/codestevenli/markdownPhotos/blob/master/1.gif)
 
-如果你想看[下一篇](https://codestevenli.github.io/blog/firstblog.md)
+如果你想看[下一篇](https://codestevenli.github.io/blog/firstblog.html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
