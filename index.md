@@ -8,7 +8,7 @@ You can use the [editor on GitHub](https://github.com/codestevenli/codestevenli.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## _下面是一些markdown语法_
+## _下面是一些markdown语法 _
 
 ### Markdown
 
@@ -34,7 +34,7 @@ Syntax highlighted code block
 ```
 # like this
 
-![Image](https://github.com/codestevenli/markdownPhotos/blob/master/1.gif)
+![Image](https://github.com/codestevenli/markdownPhotos/blob/master/1.jpg)
 
 如果你想看[下一篇](https://codestevenli.github.io/blog/firstblog.html)
 
